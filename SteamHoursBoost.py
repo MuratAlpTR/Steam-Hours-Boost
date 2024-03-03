@@ -1,3 +1,5 @@
+//     “a project developed by MuratAlpTR”
+
 import requests
 import time
 
@@ -24,3 +26,6 @@ if __name__ == "__main__":
     while True:
         boost_hours(game_id_to_boost, your_steam_id, your_api_key)
         time.sleep(3600)  # Boost every hour
+
+
+//     “a project developed by MuratAlpTR”
